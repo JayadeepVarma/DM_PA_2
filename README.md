@@ -1,4 +1,4 @@
-# DM_PA_1
+# DM_PA_2
 # README for Programming Assignment 2
 
 ## Questions and Outputs
